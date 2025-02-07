@@ -1,4 +1,4 @@
-// Create Web Server
+// Create web server
 // Create a web server that listens on port 3000. It should respond to a GET request to /comments with a JSON response that represents an array of comments.
 // The comments array should have a length of 10. Each comment should have an id, author, and message property.
 // The id should be a unique number. The author should be the name of a person. The message should be a random sentence or paragraph of text.
